@@ -1,0 +1,7 @@
+C:\Users\johnm\source\repos\DownloadsOrganizer\DownloadsOrganizer\bin\Debug\DownloadsOrganizer.exe.config
+C:\Users\johnm\source\repos\DownloadsOrganizer\DownloadsOrganizer\bin\Debug\DownloadsOrganizer.exe
+C:\Users\johnm\source\repos\DownloadsOrganizer\DownloadsOrganizer\bin\Debug\DownloadsOrganizer.pdb
+C:\Users\johnm\source\repos\DownloadsOrganizer\DownloadsOrganizer\obj\Debug\DownloadsOrganizer.csprojAssemblyReference.cache
+C:\Users\johnm\source\repos\DownloadsOrganizer\DownloadsOrganizer\obj\Debug\DownloadsOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\johnm\source\repos\DownloadsOrganizer\DownloadsOrganizer\obj\Debug\DownloadsOrganizer.exe
+C:\Users\johnm\source\repos\DownloadsOrganizer\DownloadsOrganizer\obj\Debug\DownloadsOrganizer.pdb
